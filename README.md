@@ -1,5 +1,5 @@
 # Project description
-As an evolution of ![Project 1](https://github.com/hedcler/udacity-dataengineer-project1) now we need to respond 3 questions querying on Apache Cassandra (A NoSQL database for big-data)
+As an evolution of [Project 1](https://github.com/hedcler/udacity-dataengineer-project1) now we need to respond 3 questions querying on Apache Cassandra (A NoSQL database for big-data)
 
 **1. Get the artist, song title, and song's length in the music app history that was heard during in a giving sessionId, and itemInSession**
 **2. Get only the following: name of the artist, song (sorted by itemInSession), and user (first and last name) for a giving userId, and sessionId**
